@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "phoneIcon",
+  "identifier": "texture:24774176-0b56d365-5ce2-429c-8c44-5c53cb9e1f35",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "301b51b97d707e87044b944eaf194c32",
+  "assetLocator": "textures/phone-pixel(2).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:24774178-0b56d365-5ce2-429c-8c44-5c53cb9e1f35",
+    "textureExportConfig:24774180-0b56d365-5ce2-429c-8c44-5c53cb9e1f35",
+    "textureExportConfig:24774182-0b56d365-5ce2-429c-8c44-5c53cb9e1f35"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 200,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 200,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "301b51b97d707e87044b944eaf194c32",
+      "colorCount": 9,
+      "detectedAlphaChannel": "one_bit",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.9157697279935824,
+      "pixelsHigh": 200,
+      "pixelsWide": 200
+    }
+  ]
+}

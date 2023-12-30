@@ -1,0 +1,451 @@
+{
+  "objects": [],
+  "usingPatchesV2": true,
+  "version": {
+    "dev": 0,
+    "patch": 0,
+    "prod": 169
+  },
+  "visual_programming": {
+    "connections": [
+      {
+        "fromPatch": "template_patch_model:96306-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:102480-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:102422-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "toPort": "1"
+      },
+      {
+        "fromPatch": "template_patch_model:102422-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:102482-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:319010-775f1a4d-89a8-4a47-a72a-b4e2d4bc55f7",
+        "toPort": "3"
+      },
+      {
+        "fromPatch": "template_patch_model:182529-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:182645-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:182355-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "toPort": "1"
+      },
+      {
+        "fromPatch": "port_forwarding_patch_model:233653-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "fromPort": "1239146339335708476",
+        "identifier": "patch_connection_model:233695-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:182355-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "toPort": "2"
+      },
+      {
+        "fromPatch": "template_patch_model:698569-9f3a0402-2000-4b77-a0f8-b7ac7752ef17",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:322006-775f1a4d-89a8-4a47-a72a-b4e2d4bc55f7",
+        "modelName": "patch_connection_model",
+        "toPatch": "port_forwarding_patch_model:699287-9f3a0402-2000-4b77-a0f8-b7ac7752ef17",
+        "toPort": "10188253773735924602"
+      },
+      {
+        "fromPatch": "template_patch_model:182355-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:333275-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:333217-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "toPort": "2"
+      },
+      {
+        "fromPatch": "port_forwarding_patch_model:199210-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "fromPort": "2633347904959808498",
+        "identifier": "patch_connection_model:333277-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:333217-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "toPort": "1"
+      },
+      {
+        "fromPatch": "template_patch_model:333217-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:333279-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:96306-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "toPort": "1"
+      },
+      {
+        "fromPatch": "template_patch_model:333217-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:333281-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:611289-4af1d87d-2f2a-4fb6-bec4-ed6fd1fcd965",
+        "toPort": "2"
+      },
+      {
+        "fromPatch": "port_forwarding_patch_model:74896-775f1a4d-89a8-4a47-a72a-b4e2d4bc55f7",
+        "fromPort": "7631568173757913328",
+        "identifier": "patch_connection_model:608613-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:608555-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "toPort": "1"
+      },
+      {
+        "fromPatch": "template_patch_model:608555-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:608615-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:319010-775f1a4d-89a8-4a47-a72a-b4e2d4bc55f7",
+        "toPort": "2"
+      },
+      {
+        "fromPatch": "template_patch_model:611289-4af1d87d-2f2a-4fb6-bec4-ed6fd1fcd965",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:611351-4af1d87d-2f2a-4fb6-bec4-ed6fd1fcd965",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:698569-9f3a0402-2000-4b77-a0f8-b7ac7752ef17",
+        "toPort": "1"
+      },
+      {
+        "fromPatch": "port_forwarding_patch_model:182229-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "fromPort": "4613696011089926535",
+        "identifier": "patch_connection_model:93162-442f51ae-38b3-4a82-ac30-47436a17a4de",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:182529-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "toPort": "1"
+      },
+      {
+        "fromPatch": "port_forwarding_patch_model:182271-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "fromPort": "4231512718796072556",
+        "identifier": "patch_connection_model:93164-442f51ae-38b3-4a82-ac30-47436a17a4de",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:182529-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "toPort": "2"
+      },
+      {
+        "fromPatch": "template_patch_model:319010-775f1a4d-89a8-4a47-a72a-b4e2d4bc55f7",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:96368-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:611289-4af1d87d-2f2a-4fb6-bec4-ed6fd1fcd965",
+        "toPort": "1"
+      }
+    ],
+    "patches": [
+      {
+        "groupDescription": "Takes x2 positions and checks if they collided.\n\nOn detecting a collision will stop checking for further collisions until re-enabled",
+        "groupName": "Collide_Once",
+        "identifier": "patch_group_model:182215-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "inputPorts": [
+          "patch_input_port_model:74888-775f1a4d-89a8-4a47-a72a-b4e2d4bc55f7",
+          "patch_input_port_model:199202-18980b21-fc77-4fad-be02-a4f47322d18b",
+          "patch_input_port_model:182587-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+          "patch_input_port_model:182601-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+          "patch_input_port_model:233645-2151a9c0-92e8-4f56-8598-d04a91b0fc76"
+        ],
+        "modelName": "patch_group_model",
+        "name": "Collide_Once",
+        "outputPorts": [
+          "patch_output_port_model:699279-9f3a0402-2000-4b77-a0f8-b7ac7752ef17"
+        ],
+        "position": [
+          -652,
+          -676
+        ],
+        "subpatches": [
+          "port_forwarding_patch_model:182229-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+          "port_forwarding_patch_model:182271-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+          "port_forwarding_patch_model:199210-18980b21-fc77-4fad-be02-a4f47322d18b",
+          "port_forwarding_patch_model:233653-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+          "port_forwarding_patch_model:699287-9f3a0402-2000-4b77-a0f8-b7ac7752ef17",
+          "port_forwarding_patch_model:74896-775f1a4d-89a8-4a47-a72a-b4e2d4bc55f7",
+          "template_patch_model:102422-18980b21-fc77-4fad-be02-a4f47322d18b",
+          "template_patch_model:182355-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+          "template_patch_model:182529-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+          "template_patch_model:319010-775f1a4d-89a8-4a47-a72a-b4e2d4bc55f7",
+          "template_patch_model:333217-18980b21-fc77-4fad-be02-a4f47322d18b",
+          "template_patch_model:608555-18980b21-fc77-4fad-be02-a4f47322d18b",
+          "template_patch_model:611289-4af1d87d-2f2a-4fb6-bec4-ed6fd1fcd965",
+          "template_patch_model:698569-9f3a0402-2000-4b77-a0f8-b7ac7752ef17",
+          "template_patch_model:96306-18980b21-fc77-4fad-be02-a4f47322d18b"
+        ],
+        "values": []
+      },
+      {
+        "identifier": "port_forwarding_patch_model:182229-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "modelName": "port_forwarding_patch_model",
+        "name": "Position A",
+        "position": [
+          -4,
+          -100
+        ],
+        "values": []
+      },
+      {
+        "identifier": "port_forwarding_patch_model:182271-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "modelName": "port_forwarding_patch_model",
+        "name": "Poisition B",
+        "position": [
+          -4,
+          -4
+        ],
+        "values": []
+      },
+      {
+        "identifier": "port_forwarding_patch_model:199210-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "modelName": "port_forwarding_patch_model",
+        "name": "Enabled",
+        "position": [
+          572,
+          -148
+        ],
+        "values": []
+      },
+      {
+        "identifier": "port_forwarding_patch_model:233653-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "modelName": "port_forwarding_patch_model",
+        "name": "Threshold",
+        "position": [
+          332,
+          44
+        ],
+        "values": []
+      },
+      {
+        "identifier": "port_forwarding_patch_model:699287-9f3a0402-2000-4b77-a0f8-b7ac7752ef17",
+        "modelName": "port_forwarding_patch_model",
+        "name": "Collide",
+        "position": [
+          2324,
+          -100
+        ],
+        "values": []
+      },
+      {
+        "identifier": "port_forwarding_patch_model:74896-775f1a4d-89a8-4a47-a72a-b4e2d4bc55f7",
+        "modelName": "port_forwarding_patch_model",
+        "name": "Reset",
+        "position": [
+          1100,
+          -316
+        ],
+        "values": []
+      },
+      {
+        "identifier": "template_patch_model:102422-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "modelName": "template_patch_model",
+        "name": "Delay",
+        "position": [
+          1364,
+          -196
+        ],
+        "templateId": "builtin.delay",
+        "values": [
+          {
+            "port": "2",
+            "value": {
+              "t": "double",
+              "v": 0.05
+            }
+          }
+        ],
+        "variantInfo": "float"
+      },
+      {
+        "identifier": "template_patch_model:182355-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "modelName": "template_patch_model",
+        "name": "Less Than",
+        "position": [
+          500,
+          -76
+        ],
+        "templateId": "builtin.binaryScalarLtOperator",
+        "values": [],
+        "variantInfo": "float"
+      },
+      {
+        "identifier": "template_patch_model:182529-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "modelName": "template_patch_model",
+        "name": "Distance",
+        "position": [
+          188,
+          -76
+        ],
+        "templateId": "builtin.mathDistance",
+        "values": [],
+        "variantInfo": "float"
+      },
+      {
+        "identifier": "template_patch_model:319010-775f1a4d-89a8-4a47-a72a-b4e2d4bc55f7",
+        "modelName": "template_patch_model",
+        "name": "Switch",
+        "position": [
+          1676,
+          -268
+        ],
+        "templateId": "builtin.toggle",
+        "values": []
+      },
+      {
+        "identifier": "template_patch_model:333217-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "modelName": "template_patch_model",
+        "name": "And",
+        "position": [
+          764,
+          -100
+        ],
+        "templateId": "builtin.binaryBoolAndOperator",
+        "values": []
+      },
+      {
+        "identifier": "template_patch_model:608555-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "modelName": "template_patch_model",
+        "name": "Delay",
+        "position": [
+          1340,
+          -340
+        ],
+        "templateId": "builtin.delay",
+        "values": [
+          {
+            "port": "2",
+            "value": {
+              "t": "double",
+              "v": 0.1
+            }
+          }
+        ],
+        "variantInfo": "float"
+      },
+      {
+        "identifier": "template_patch_model:611289-4af1d87d-2f2a-4fb6-bec4-ed6fd1fcd965",
+        "modelName": "template_patch_model",
+        "name": "And",
+        "position": [
+          1916,
+          -100
+        ],
+        "templateId": "builtin.binaryBoolAndOperator",
+        "values": []
+      },
+      {
+        "identifier": "template_patch_model:698569-9f3a0402-2000-4b77-a0f8-b7ac7752ef17",
+        "modelName": "template_patch_model",
+        "name": "Pulse",
+        "position": [
+          2156,
+          -124
+        ],
+        "templateId": "builtin.pulse",
+        "values": []
+      },
+      {
+        "identifier": "template_patch_model:96306-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "modelName": "template_patch_model",
+        "name": "Pulse",
+        "position": [
+          1172,
+          -172
+        ],
+        "templateId": "builtin.pulse",
+        "values": []
+      }
+    ],
+    "ports": [
+      {
+        "defaultValue": {
+          "t": "vec3",
+          "v": [
+            0,
+            0,
+            0
+          ]
+        },
+        "forwardingPatch": "port_forwarding_patch_model:182229-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "identifier": "patch_input_port_model:182587-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "modelName": "patch_input_port_model",
+        "portDescription": "Position of first object",
+        "portName": "Position A",
+        "portTag": "4613696011089926535",
+        "portType": "vec3",
+        "widgetStyle": "default"
+      },
+      {
+        "defaultValue": {
+          "t": "vec3",
+          "v": [
+            0,
+            0,
+            0
+          ]
+        },
+        "forwardingPatch": "port_forwarding_patch_model:182271-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "identifier": "patch_input_port_model:182601-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "modelName": "patch_input_port_model",
+        "portDescription": "Poisition of second object",
+        "portName": "Poisition B",
+        "portTag": "4231512718796072556",
+        "portType": "vec3",
+        "widgetStyle": "default"
+      },
+      {
+        "defaultValue": {
+          "t": "bool",
+          "v": true
+        },
+        "forwardingPatch": "port_forwarding_patch_model:199210-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "identifier": "patch_input_port_model:199202-18980b21-fc77-4fad-be02-a4f47322d18b",
+        "modelName": "patch_input_port_model",
+        "portDescription": "",
+        "portName": "Enabled",
+        "portTag": "2633347904959808498",
+        "portType": "bool",
+        "widgetStyle": "default"
+      },
+      {
+        "defaultValue": {
+          "t": "double",
+          "v": 0.05
+        },
+        "forwardingPatch": "port_forwarding_patch_model:233653-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "identifier": "patch_input_port_model:233645-2151a9c0-92e8-4f56-8598-d04a91b0fc76",
+        "minValue": {
+          "t": "double",
+          "v": 0
+        },
+        "modelName": "patch_input_port_model",
+        "portDescription": "Min distance objects must be apart to trigger a collision",
+        "portName": "Threshold",
+        "portTag": "1239146339335708476",
+        "portType": "float",
+        "widgetStyle": "default"
+      },
+      {
+        "defaultValue": {
+          "t": "bool",
+          "v": false
+        },
+        "forwardingPatch": "port_forwarding_patch_model:74896-775f1a4d-89a8-4a47-a72a-b4e2d4bc55f7",
+        "identifier": "patch_input_port_model:74888-775f1a4d-89a8-4a47-a72a-b4e2d4bc55f7",
+        "modelName": "patch_input_port_model",
+        "portDescription": "Trigger to enable collision detection",
+        "portName": "Reset",
+        "portTag": "7631568173757913328",
+        "portType": "pulse",
+        "widgetStyle": "default"
+      },
+      {
+        "defaultValue": {
+          "t": "bool",
+          "v": false
+        },
+        "forwardingPatch": "port_forwarding_patch_model:699287-9f3a0402-2000-4b77-a0f8-b7ac7752ef17",
+        "identifier": "patch_output_port_model:699279-9f3a0402-2000-4b77-a0f8-b7ac7752ef17",
+        "modelName": "patch_output_port_model",
+        "portDescription": "Collision detected",
+        "portName": "Collide",
+        "portTag": "10188253773735924602",
+        "portType": "pulse",
+        "widgetStyle": "default"
+      }
+    ]
+  }
+}

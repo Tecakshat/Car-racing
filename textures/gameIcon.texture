@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "gameIcon",
+  "identifier": "texture:1701485-cbea7f0b-aa7b-4162-a0f2-963ed377e6b4",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "9b3bd7e244755157f8f5a353959c8b15",
+  "assetLocator": "textures/runner_thumbnail.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:1701487-cbea7f0b-aa7b-4162-a0f2-963ed377e6b4",
+    "textureExportConfig:1701489-cbea7f0b-aa7b-4162-a0f2-963ed377e6b4",
+    "textureExportConfig:1701491-cbea7f0b-aa7b-4162-a0f2-963ed377e6b4"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 512,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 512,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "9b3bd7e244755157f8f5a353959c8b15",
+      "colorCount": 16001,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 10.911053811990755,
+      "pixelsHigh": 512,
+      "pixelsWide": 512
+    }
+  ]
+}
